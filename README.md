@@ -1,4 +1,4 @@
 # post-test-praktikum-algoritma-pemrograman-3c
 
-Kontribusi tim
+Kontribusi tim \n
 Jundi Haidar Prayudi (18) : Box plot dan manajemen repository github
