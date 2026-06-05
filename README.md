@@ -9,11 +9,11 @@ Repositori ini dibuat sebagai dokumentasi post-test mata kuliah praktikum algori
 
 | Nama Anggota | NIM | Kontribusi & Rincian Tugas (*Jobdesk*) |
 | :--- | :---: | :--- |
-| **Aun Nurofiq Fuadi** | 21060125120017 | <ul><li>Membuat program grafik/analisis kategori A</li><li>Berkontribusi aktif dalam mendesain infografis hasil akhir</li></ul> |
-| **Habib Azka Ekhwanputra** | 21060125130060 | <ul><li>Membuat program grafik/analisis kategori B</li><li>Berkontribusi aktif dalam mendesain infografis hasil akhir</li></ul> |
-| **Muhammad Najamuddin** | 21060125120003 | <ul><li>Menggabungkan program visualisasi dan analisis (Kategori A, B, C, D)</li><li>Berkontribusi aktif dalam mendesain infografis hasil akhir</li></ul> |
-| **Musa Annaqi** | 21060125120021 | <ul><li>Membuat program grafik/analisis kategori C</li><li>Mengatur struktur, manajemen, dan pemeliharaan repositori GitHub</li></ul> |
-| **Shafa Reswara Nurhadi** | 21060125120011 | <ul><li>Membuat program grafik/analisis kategori D</li><li>Berkontribusi aktif dalam mendesain infografis hasil akhir</li></ul> |
+| **Jundi Haidar Prayudi** | 21060125120018 | <ul><li>Menyusun kode program visualisasi Kategori A (Agregasi) </li><li>Membuat strukturdan mengatur manajemen repositori GitHub</li></ul> |
+| **Aulia Rahman** | 21060125130029 | <ul><li>Menyusun kode program visualisasi Kategori B (Tren/Filter) </li><li>Merancang desain panel infografis untuk hasil analisis tersebut</li></ul> |
+| **Ahmad Eka Refaldi** | 21060125120041 | <ul><li>Menyusun kode program visualisasi Kategori D</li><li>Merancang desain panel infografis untuk hasil analisis tersebut</li></ul> |
+| **Rangga Julian Rosandi** | 21060125120043 | <ul><li>Menyusun kode program visualisasi Kategori C</li><li>Merancang desain panel infografis untuk hasil analisis tersebut</li></ul> |
+| **Ahmad Naufal Andifa** | 21060125120057 | <ul><li>Menulis kode program penggabungan tata letak</li><li>Merakit struktur logika desain utama (layouting) infografis secara keseluruhan</li></ul> |
 
 ---
 
