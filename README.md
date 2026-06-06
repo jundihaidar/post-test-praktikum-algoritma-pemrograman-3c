@@ -27,7 +27,7 @@ Repositori ini dibuat sebagai dokumentasi post-test mata kuliah praktikum algori
 
 ---
 
-##  Deskripsi Dataset
+##  Parameter Dataset
 *   **Data kuantitatif:** `Area`, `Bedrooms`, `Bathrooms`, `Stories`,`Price`.
 *   **Data kualitatif:** `Mainroad`, `Guestroom`, `Basement`, `Hotwaterheating`, `Airconditioning`, `Parking`, `Prefarea`, `Furnishingstatus`.
 
