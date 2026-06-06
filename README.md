@@ -32,3 +32,38 @@ Repositori ini dibuat sebagai dokumentasi post-test mata kuliah praktikum algori
 *   **Data kualitatif:** `Mainroad`, `Guestroom`, `Basement`, `Hotwaterheating`, `Airconditioning`, `Parking`, `Prefarea`, `Furnishingstatus`.
 
 ---
+
+## Arsitektur dan Alur Kode
+Aplikasi ini mengimplementasikan tahapan analisis data berbasis Object-Oriented Plotting dengan alur sebagai berikut:
+1.	Pra-pemrosesan Data (Data Preprocessing): Memuat berkas .csv menggunakan struktur DataFrame.
+2.	Kategori A (Agregasi): Menemukan dan memvisualisasikan harga rumah tertinggi dan terendah berdasarkan kategori wilayah pilihan (prefarea) menggunakan Grouped Bar Chart.
+3.	Kategori B (Tren/Filter): Menyaring rumah berlantai > 2 tanpa basement, lalu menghitung kuantitasnya berdasarkan status perabot menggunakan Bar Chart.
+4.	Kategori C (Korelasi): Menganalisis korelasi antar komponen numerik bangunan (price, area, bedrooms, bathrooms, parking) ke dalam matriks Heatmap.
+5.	Kategori D (Distribusi): Mendeteksi sebaran dan pencilan (outliers) luas tanah khusus untuk rumah berstatus unfurnished menggunakan Boxplot.
+6.	Visualisasi Gabungan: Mengkompilasi keempat grafik analisis ke dalam satu canvas grid (2x2) untuk kebutuhan dashboard kesimpulan eksekutif.
+
+---
+
+
+.                            .mmMMMMMMMMMMMMMmm.                              
+                         .mMMMMMMMMMMMMMMMMMMMMMMMm.                          
+                      .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.                       
+                    .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                     
+                  .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                   
+                 MMMMMMMM'  `"MMMMM"""""""MMMM""`  'MMMMMMMM                  
+                MMMMMMMMM                           MMMMMMMMM                 
+               MMMMMMMMMM:                         :MMMMMMMMMM                
+              .MMMMMMMMMM                           MMMMMMMMMM.               
+              MMMMMMMMM"                             "MMMMMMMMM               
+              MMMMMMMMM                               MMMMMMMMM               
+              MMMMMMMMM                               MMMMMMMMM               
+              MMMMMMMMMM                             MMMMMMMMMM               
+              `MMMMMMMMMM                           MMMMMMMMMM`               
+               MMMMMMMMMMMM.                     .MMMMMMMMMMMM                
+                MMMMMM  MMMMMMMMMM         MMMMMMMMMMMMMMMMMM                 
+                 MMMMMM  'MMMMMMM           MMMMMMMMMMMMMMMM                  
+                  `MMMMMM  "MMMMM           MMMMMMMMMMMMMM`                   
+                    `MMMMMm                 MMMMMMMMMMMM`                     
+                      `"MMMMMMMMM           MMMMMMMMM"`                       
+                         `"MMMMMM           MMMMMM"`                          
+                             `""M           M""`                              
