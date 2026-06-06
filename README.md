@@ -44,6 +44,19 @@ Aplikasi ini mengimplementasikan tahapan analisis data berbasis Object-Oriented 
 
 ---
 
+## Cara Menjalankan Program di Lokal
+1.	Pastikan Anda telah mengunduh (atau melakukan clone) seluruh isi repositori ini.
+2.	Tempatkan berkas kode program (.ipynb) dan berkas dataset (Kelas C_Housing.csv) di dalam satu direktori/folder yang sama.
+3.	Buka terminal atau command prompt, lalu pasang library pendukung dengan perintah:
+```text
+pip install pandas numpy matplotlib seaborn ipykernel
+```
+5.	Buka berkas .ipynb menggunakan Jupyter Notebook, VS Code, atau Google Colab, lalu jalankan (Run All) seluruh sel kode yang tersedia.
+
+
+---
+
+
 
 ```text                            .mmMMMMMMMMMMMMMmm.                              
                          .mMMMMMMMMMMMMMMMMMMMMMMMm.                          
