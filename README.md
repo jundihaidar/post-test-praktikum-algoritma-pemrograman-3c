@@ -45,7 +45,7 @@ Aplikasi ini mengimplementasikan tahapan analisis data berbasis Object-Oriented 
 ---
 
 
-.                            .mmMMMMMMMMMMMMMmm.                              
+```text                            .mmMMMMMMMMMMMMMmm.                              
                          .mMMMMMMMMMMMMMMMMMMMMMMMm.                          
                       .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.                       
                     .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                     
@@ -66,4 +66,5 @@ Aplikasi ini mengimplementasikan tahapan analisis data berbasis Object-Oriented 
                     `MMMMMm                 MMMMMMMMMMMM`                     
                       `"MMMMMMMMM           MMMMMMMMM"`                       
                          `"MMMMMM           MMMMMM"`                          
-                             `""M           M""`                              
+                             `""M           M""`
+```
